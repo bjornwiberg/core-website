@@ -3,7 +3,7 @@
 <!-- proselint-disable -->
 # GenericObject
 
-_QIX methods for version 12.156.0._
+_QIX methods for version 12.157.0._
 
 ## `AbortListObjectSearch`
 
